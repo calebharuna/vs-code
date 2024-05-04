@@ -1,0 +1,32 @@
+body{
+padding: 0;
+margin: 0;
+font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+    }
+    #navbar{
+    padding: 8px;
+    margin: 0;
+    }
+    #banner{
+    width: 100%;
+    }
+    #about{
+    display: flex;
+    }
+     #description{
+        width: 50%;
+        }
+        #team image{
+        width: 50%;
+        }
+    #logo{
+    height: 30px;
+    }
+.location{
+    color: grey;
+    }
+    
